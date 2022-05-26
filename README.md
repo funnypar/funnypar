@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Parsa
 #### I am Frontend developer ;)
-![I am Frontend developer ;)][<img src='https://github.com/funnypar/funnypar/blob/main/images.jpeg' height='100px' width='300px']
+![I am Frontend developer ;)][<img src='https://github.com/funnypar/funnypar/blob/main/images.jpeg' height='100px' width='300px'](https://github.com/funnypar/funnypar/blob/main/images.jpeg)
 
 I really love learrning languages but so far I have'nt learned anything about React and another frameworks:( ...  although I am new to this path(3 or 4 months), I have tried to make rapid progress. 
 
