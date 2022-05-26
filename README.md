@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Parsa
 #### I am Frontend developer ;)
-![I am Frontend developer ;)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Frontend developer ;)]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/funnypar/funnypar/blob/main/images.jpeg))
 
 I really love learrning languages but so far I have'nt learned anything about React and another frameworks:( ...  although I am new to this path(3 or 4 months), I have tried to make rapid progress. 
 
