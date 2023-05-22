@@ -1,5 +1,5 @@
 # 💫 About Me:
-👽 I am currently building various components and trying to improve my HTML and CSS skills 👾 <br>I am currently learning React 🔥<br>Ask me about Python 🐍, Css 🦄, Html 🕸️, Tailwind 🦔, React 🦥, Javascript 🦖, git 🐾, algorithms 🐬, linux 🔮.
+👽 I am currently building various components and trying to improve my HTML and CSS skills 👾 <br>📖 I am currently learning React 🔥<br>💭 Ask me about Python 🐍, Css 🦄, Html 🕸️, Tailwind 🦔, React 🦥, Javascript 🦖, git 🐾, algorithms 🐬, linux 🔮.
 
 
 ## 🌐 Socials:
