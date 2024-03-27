@@ -19,3 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=funnypar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://app.daily.dev/mopano"><img src="https://api.daily.dev/devcards/v2/cJMvvp48CRgsntA2rj8xf.png?type=default&r=aij" width="356" alt="Mopano's Dev Card"/></a>
