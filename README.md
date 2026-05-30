@@ -1,5 +1,5 @@
 # 💫 About Me:
-👽 I am currently learning Flutter and trying to improve my skills in CRM development 👾 <br>📖 I am currently learning Dart 🔥<br>💭 Ask me about Python 🐍, C# 🦄, CRM 🦀, Html&Css 🕸️, Tailwind 🦔, React 🦥, Javascript 🦖, git 🐾, algorithms 🐬, linux 🔮.
+👽 I am currently getting deep into React and Next and trying to improve my skills in CRM development 👾 <br>📖 I am currently learning Dart 🔥<br>💭 Ask me about Python 🐍, C# 🦄, CRM 🦀, Html&Css 🕸️, Tailwind 🦔, React 🦥, Javascript 🦖, git 🐾, algorithms 🐬, linux 🔮.
 
 
 ## 🌐 Socials:
